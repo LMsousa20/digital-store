@@ -22,7 +22,13 @@ export default function Footer() {
                     </div>
                    
                     <div style={{ maxWidth: "307px" }}>
-                        <span >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</span>
+                        <span >Cai a madrugada, tanto tempo sem te ver
+A saudade tá machucando no peito
+Minha vida é solidão
+
+Vejo nossa cama, só tá faltando você
+Já tentei, já fiz de tudo pra esquecer
+Tá difícil dominar o coração</span>
                     </div>
                     <div className={styles.subgrupicons}>
                         <IconContext.Provider value={{ color: "#FFFFFF", size: "20px" }}>
